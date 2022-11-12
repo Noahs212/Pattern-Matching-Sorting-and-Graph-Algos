@@ -1,5 +1,5 @@
 # Pattern-Matching-Sorting-and-Graph-Algos
-An implementations of several sorting, graph, and pattern matching algorithms for generic data types and included unit testing. As well as edge, graph, vertex, disjoint set, and disjoing set node classes for the graph algorithms. 
+An implementations of several sorting, graph, and pattern matching algorithms for generic data types and included unit testing. As well as edge, graph, vertex, disjoint set, and disjoint set node classes for the graph algorithms. 
 
 Sorting Algorithms:
   insertion sort,
